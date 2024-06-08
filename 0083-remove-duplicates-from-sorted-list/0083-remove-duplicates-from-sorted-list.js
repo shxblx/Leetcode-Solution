@@ -5,26 +5,21 @@
  *     this.next = (next===undefined ? null : next)
  * }
  */
-
 /**
  * @param {ListNode} head
  * @return {ListNode}
  */
-var deleteDuplicates = function(head) {
-    // If the head is null or there's only one element, return head
+var deleteDuplicates = function (head) {
     if (head === null || head.next === null) {
         return head;
     }
-
-    let current = head;
-    
-    while (current !== null && current.next !== null) {
-        if (current.val === current.next.val) {
-            current.next = current.next.next;
+    let curr = head
+    while (curr !== null && curr.next !== null) {
+        if (curr.val === curr.next.val) {
+            curr.next = curr.next.next
         } else {
-            current = current.next;
+            curr = curr.next
         }
     }
-    
-    return head;
+    return head
 };
