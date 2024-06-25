@@ -3,12 +3,12 @@
  * @return {number}
  */
 var sumOddLengthSubarrays = function (arr) {
-    let odd = 1;
     let sum = 0
+    let odd = 1
     while (odd <= arr.length) {
         for (let i = 0; i <= arr.length - odd; i++) {
             for (let j = i; j < i + odd; j++) {
-                sum += arr[j]
+                sum+=arr[j]
             }
         }
         odd += 2
