@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/shxblx/Leetcode-Solution/tree/master/0414-third-maximum-number) |
+## Math
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/shxblx/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/shxblx/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
