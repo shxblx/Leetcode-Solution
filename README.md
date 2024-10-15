@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shxblx/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [2491-smallest-even-multiple](https://github.com/shxblx/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
