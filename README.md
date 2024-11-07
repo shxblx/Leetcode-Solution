@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shxblx/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [2491-smallest-even-multiple](https://github.com/shxblx/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
+| [2752-sum-multiples](https://github.com/shxblx/Leetcode-Solution/tree/master/2752-sum-multiples) |
 ## Number Theory
 |  |
 | ------- |
