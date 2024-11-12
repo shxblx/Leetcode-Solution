@@ -24,8 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shxblx/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [2825-minimize-string-length](https://github.com/shxblx/Leetcode-Solution/tree/master/2825-minimize-string-length) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shxblx/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [2825-minimize-string-length](https://github.com/shxblx/Leetcode-Solution/tree/master/2825-minimize-string-length) |
 <!---LeetCode Topics End-->
