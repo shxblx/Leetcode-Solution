@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shxblx/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shxblx/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shxblx/Leetcode-Solution/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/shxblx/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Sorting
 |  |
 | ------- |
